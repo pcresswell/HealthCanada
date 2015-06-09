@@ -1,2 +1,2 @@
 # HealthCanada
-Health Canada Drug Product Database Schema in sqlite format
+Health Canada Drug Product Database Schema in sqlite format. No rights are granted or assumed. All rights for commercial use of Health Canada’s Drug Product Database must be negotiated with Health Canada.
