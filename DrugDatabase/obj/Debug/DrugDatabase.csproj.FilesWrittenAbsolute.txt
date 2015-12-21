@@ -1,0 +1,5 @@
+/Users/peter/Projects/HealthCanada/DrugDatabase/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/peter/Projects/HealthCanada/DrugDatabase/bin/Debug/DrugDatabase.dll.mdb
+/Users/peter/Projects/HealthCanada/DrugDatabase/bin/Debug/DrugDatabase.dll
+/Users/peter/Projects/HealthCanada/DrugDatabase/obj/Debug/DrugDatabase.dll
+/Users/peter/Projects/HealthCanada/DrugDatabase/obj/Debug/DrugDatabase.dll.mdb

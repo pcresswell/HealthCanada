@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="DrugDatabase.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="June2015/VeterinarySpeciesList.cs">
+    <Files>
+      <File FileName="June2015/VeterinarySpeciesList.cs" Line="8" Column="6" />
+      <File FileName="VeterinarySpecies.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="DrugDatabase" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Chexus/Chexus.Sync/Commands/SyncRemoteToLocalUserCommand.cs" line="18" offsetX="667" offsetY="255" expression="_syncUser" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Commands/SyncRemoteToLocalCustomerCommand.cs" line="19" offsetX="761" offsetY="270" expression="_syncCustomer" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Commands/SyncRemoteToLocalCustomerCommand.cs" line="30" offsetX="941" offsetY="435" expression="_syncCustomer.Territory" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Mobile/iOS/Sync/SyncRepository.cs" line="1059" offsetX="450" offsetY="1785" expression="territory" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Mobile/iOS/AppDelegate.cs" line="75" offsetX="363" offsetY="1110" expression="ex" liveUpdate="True" />
+    <Watch file="../../Chexus/Chexus.Sync/Sync Non PCL/SyncService.cs" line="128" offsetX="587" offsetY="1905" expression="syncUser" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Sync Non PCL/SyncRepository.cs" line="885" offsetX="494" offsetY="10740" expression="resultSet" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Sync Non PCL/SyncRepository.cs" line="131" offsetX="616" offsetY="1950" expression="resultSet" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Commands/SyncRemoteToLocalDUReasonCommand.cs" line="27" offsetX="327" offsetY="390" expression="_duReason" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repositories/PromotionLineItemRepository.cs" line="20" offsetX="732" offsetY="285" expression="cheque" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repositories/PromotionLineItemRepository.cs" line="20" offsetX="732" offsetY="285" expression="cheque" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repositories/PromotionLineItemRepository.cs" line="27" offsetX="385" offsetY="390" expression="promotionLineItems" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repositories/PromotionLineItemRepository.cs" line="36" offsetX="508" offsetY="525" expression="cheque" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repository.cs" line="404" offsetX="298" offsetY="5835" expression="d" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Commands/SyncRemoteToLocalChequeCommand.cs" line="44" offsetX="472" offsetY="495" expression="_syncCheque" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Database/Repository.cs" line="420" offsetX="298" offsetY="6120" expression="d" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Sync Non PCL/SyncRepository.cs" line="2614" offsetX="725" offsetY="13830" expression="table.MetaData[6].DataType" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Sync/Sync Non PCL/SyncRepository.cs" line="2614" offsetX="725" offsetY="13830" expression="table.MetaData[5]" liveUpdate="False" />
+    <Watch file="../../Chexus/Chexus.Core/Domain Objects/Cheque.cs" line="172" offsetX="494" offsetY="2565" expression="this" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

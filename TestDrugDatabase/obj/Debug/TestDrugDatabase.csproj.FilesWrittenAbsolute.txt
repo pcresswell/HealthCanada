@@ -1,0 +1,8 @@
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/bin/Debug/TestDrugDatabase.dll.mdb
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/bin/Debug/TestDrugDatabase.dll
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/obj/Debug/TestDrugDatabase.dll
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/obj/Debug/TestDrugDatabase.dll.mdb
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/bin/Debug/nunit.framework.dll
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/bin/Debug/DrugDatabase.dll
+/Users/peter/Projects/HealthCanada/TestDrugDatabase/bin/Debug/DrugDatabase.dll.mdb
